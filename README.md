@@ -22,6 +22,10 @@
 
 ### Railway
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1LGQej)
+
+
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/g2VXFP)
 
 ## BotFather Command
